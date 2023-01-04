@@ -1,0 +1,15 @@
+C:\Users\point\source\repos\tricky\tricky\bin\Debug\net6.0\Base.exe
+C:\Users\point\source\repos\tricky\tricky\bin\Debug\net6.0\Base.deps.json
+C:\Users\point\source\repos\tricky\tricky\bin\Debug\net6.0\Base.runtimeconfig.json
+C:\Users\point\source\repos\tricky\tricky\bin\Debug\net6.0\Base.dll
+C:\Users\point\source\repos\tricky\tricky\bin\Debug\net6.0\Base.pdb
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.AssemblyInfo.cs
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.dll
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\refint\Base.dll
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.pdb
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\Base.genruntimeconfig.cache
+C:\Users\point\source\repos\tricky\tricky\obj\Debug\net6.0\ref\Base.dll
